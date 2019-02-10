@@ -1,0 +1,10 @@
+Kulki.
+
+	Kulki to gra dla jednej osoby. Gracz ma za zadanie usuwaæ kulki z planszy, poprzec ustawianie ich w jednej linii. Kulki znikn¹
+z planszy w momencie gdy bêdzie ich przynajmniej 5 z rzêdu. Za usuwanie wiêkszej iloœci kulek przewidziane s¹ bonusy okreœlone wzorem: 
+iloœæ punktów = iloœæ kulek + (iloœæ kulek - 5) * 5. Przyk³adowo za usuniêcie 6 kulek gracz otrzyma 6 + 5 = 11 punktów, a gdy usunie ich 9,
+otrzyma 9 + (9-5) * 5 = a¿ 49 punktów. Gra trwa do momentu, gdy nie bêdzie wolnego miejsca na planszy. W menu g³ównym mo¿na znaleŸæ bardziej 
+szczegó³ow¹ instrukcjê. W panelu gry znajduje siê sama plansza, a dodatkowo na górze od lewej strony znajduj¹ siê: przycisk "New game", 
+zamykaj¹cy obecn¹ planszê i otwieraj¹cy now¹; przycisk "Top Scores" otwieraj¹cy nowe okno z tablic¹ najwy¿szych wyników; pole z obecnym 
+wynikiem i na koñcu pokazane s¹ kulki, które pojawi¹ siê na planszy w kolejnym ruchu. Po zakoñczeniu gry, gracz wpisuje siê na tablicê 
+wyników (o ile uzyska³ oczywiœcie odpowiednio wysoki wynik), a nastêpnie ma mo¿liwoœæ zakoñczenia gry, lub rozpoczêcia na nowo.
